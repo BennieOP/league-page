@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Welcome, Sigmas, to Sigma Fantasy. As we all know, the one true indicator of a mans worth is his fantasy football record. Big calves, millions in the bank, and a charming smile are nice, but nothing compares to the clout acheived from dunking on your friends for 14 weeks to take home the fantasy football trophy. This is the way.</p>
   <p>This site was mainly just an experiment I felt like doing, but I think its pretty sweet. Everything is pulled from the sleeper app so the data should be up to date, but there are a few extra tabs to play around with. If you think there is any cool feature that could be added, let me know and I can try to add it.  </p>
-  <p></p>
+  <p>For now, take a look at the Managers page, and if you want anything added to your Bio let me know. The "constitution" section is not updated for our league but I can do it if you want.</p>
   
 `;
 

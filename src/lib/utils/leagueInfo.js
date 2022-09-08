@@ -59,7 +59,7 @@ export const managers = [
       "rival": {
         name: "Dawson Kannenberg", // Can be anything (usually your rival's name)
         link: 3, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/dawson.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/dawson.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 6797, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -82,7 +82,7 @@ export const managers = [
       "rival": {
         name: "Yes", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/question.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/everyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 7023, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -105,7 +105,7 @@ export const managers = [
       "rival": {
         name: "Yet to be determined", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/question.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/everyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 4981, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -126,7 +126,7 @@ export const managers = [
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Dynasty", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Literall everyone not named Dawson or Spencer", // Can be anything (usually your rival's name)
+        name: "Literally everyone not named Dawson or Spencer", // Can be anything (usually your rival's name)
         link: null, // manager array number within this array, or null to link back to all managers page
         image: "/managers/everyone.png", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -151,7 +151,7 @@ export const managers = [
       "rival": {
         name: "Nobody, I'm just better, but Squid tho", // Can be anything (usually your rival's name)
         link: 8, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/carson.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/carson.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 5844, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "TE", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -196,7 +196,7 @@ export const managers = [
       "rival": {
         name: "Blake", // Can be anything (usually your rival's name)
         link: 5, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/blake.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/blake.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 6786, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "RB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
@@ -241,7 +241,7 @@ export const managers = [
       "rival": {
         name: "Spencer", // Can be anything (usually your rival's name)
         link: 2, // manager array number within this array, or null to link back to all managers page
-        image: "/managers/spencer.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+        image: "/managers/spencer.JPG", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
       "favoritePlayer": 7525, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
